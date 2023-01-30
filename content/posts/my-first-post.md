@@ -9,5 +9,6 @@ draft: false
 This is my new amazing website. 
 It has [Hyperlinks](/hugo-test-site/) and everything!!
 
+This is an update to the blog.
 
 
