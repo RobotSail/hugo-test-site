@@ -1,4 +1,4 @@
-baseURL = 'https://RobotSail.github.io/hugo-test-site/'
+baseURL = 'https://robotsail.github.io/hugo-test-site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
