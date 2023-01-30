@@ -6,8 +6,8 @@ draft: false
 
 ## Introduction
 
-This website is simply amazing. I **absolutely** *love* this website.
+This is my new amazing website. 
+It has [Hyperlinks](/hugo-test-site/) and everything!!
 
-Please make sure to visit the [Hugo](https://gohugo.io) website, and follow them on TikTok!!!
 
 
